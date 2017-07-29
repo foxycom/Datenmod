@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "document.dtd">
+<document>
+  <section title="Abschnitt 1" label="sec1">
+    <paragraph title="Absatz 1" label="para1">
+      <text>
+        Textblock 1.2
+      </text>
+      <list>
+        <text>
+          Textblock 2
+        </text>
+        <list>
+          <text>
+            Textblock 3
+          </text>
+          <text>
+            Textblock 4
+          </text>
+        </list>
+      </list>
+
+    </paragraph>
+  </section>
+</document>
